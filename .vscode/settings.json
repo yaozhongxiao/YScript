@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "*.in": "plaintext",
+    "opcode.h": "c",
+    "common/ysvalue.h": "c",
+    "memory.h": "c",
+    "disassembler.h": "c",
+    "compiler/parser.h": "c",
+    "scanner.h": "c",
+    "chunk.h": "c",
+    "typeinfo": "cpp"
+  }
+}
