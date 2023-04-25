@@ -30,7 +30,7 @@
 // #define ENABLE_LOGGING
 
 // #define ENABLE_INTERP_TRACE
-// #define ENABLE_COMPILE_TRACE
+#define ENABLE_COMPILE_TRACE
 
 #define UINT8_COUNT (UINT8_MAX + 1)
 
